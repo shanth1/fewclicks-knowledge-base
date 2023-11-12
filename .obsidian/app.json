@@ -3,7 +3,7 @@
   "livePreview": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "knowledge-base",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative"
