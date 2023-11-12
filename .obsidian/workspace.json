@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/Соглашение о коммитах.md",
+                "file": "knowledge-base/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/Соглашение о коммитах.md",
+                "file": "knowledge-base/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge-base/Соглашение о коммитах.md",
+                "file": "knowledge-base/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge-base/Соглашение о коммитах.md"
+                "file": "knowledge-base/Git.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "70eb0d78658a68fb",
   "lastOpenFiles": [
     "knowledge-base/Git.md",
-    "knowledge-base/Системное администрирование.md",
     "knowledge-base/Соглашение о коммитах.md",
+    "knowledge-base/Системное администрирование.md",
     "Makefile",
     "knowledge-base/Makefile",
     "Git.md",
