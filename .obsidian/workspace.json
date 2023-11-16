@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/Системное администрирование.md",
+                "file": "knowledge-base/lightsaber-ui.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "df2455ac38235ead",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/Системное администрирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge-base/Системное администрирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "knowledge-base/Системное администрирование.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,23 +143,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "70eb0d78658a68fb",
+  "active": "df2455ac38235ead",
   "lastOpenFiles": [
+    "knowledge-base/Typography компонент.md",
+    "knowledge-base/lightsaber-ui.md",
+    "knowledge-base/Button.md",
+    "knowledge-base/Layout компоненты.md",
+    "knowledge-base/Фреймворки.md",
+    "knowledge-base/Git.md",
     "knowledge-base/Соглашение о коммитах.md",
     "knowledge-base/Системное администрирование.md",
-    "knowledge-base/Git.md",
     "Makefile",
     "knowledge-base/Makefile",
     "Git.md",
-    "knowledge-base/Без названия.md",
     "Без названия.md",
     "knowledge-base"
   ]
