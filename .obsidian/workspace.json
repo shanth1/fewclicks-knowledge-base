@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/Запуск lightsaber-ui.md",
+                "file": "knowledge-base/Фреймворки.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/Запуск lightsaber-ui.md",
+                "file": "knowledge-base/Фреймворки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge-base/Запуск lightsaber-ui.md",
+                "file": "knowledge-base/Фреймворки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge-base/Запуск lightsaber-ui.md"
+                "file": "knowledge-base/Фреймворки.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "df2455ac38235ead",
   "lastOpenFiles": [
-    "knowledge-base/lightsaber-ui.md",
     "knowledge-base/Запуск lightsaber-ui.md",
+    "knowledge-base/lightsaber-ui.md",
     "knowledge-base/Input компонент.md",
     "knowledge-base/Typography компонент.md",
     "knowledge-base/Button.md",
